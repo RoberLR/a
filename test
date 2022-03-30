@@ -1,1 +1,13 @@
-A45586B3A5A291516CD10EF4FD3EE768;
+#
+# LOKI CUSTOM FALSE POSITIVE HASHES
+# This file contains MD5, SHA1 and SHA256 hashes and a short info like file name
+# or hash origin
+#
+# FORMAT -----------------------------------------------------------------------
+#
+# MD5;COMMENT
+# SHA1;COMMENT
+# SHA256;COMMENT
+#
+
+A45586B3A5A291516CD10EF4FD3EE768;Yara Rules of v0.2
